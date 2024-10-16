@@ -1,3 +1,3 @@
 # culinfo
 
-A new Flutter project.
+Culinary Information
