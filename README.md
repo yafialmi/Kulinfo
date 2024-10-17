@@ -1,3 +1,3 @@
-# culinfo
+# Kulinfo
 
-Culinary Information
+Aplikasi Mengenai Informasi Kuliner
